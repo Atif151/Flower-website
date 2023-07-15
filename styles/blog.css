@@ -105,7 +105,12 @@ font-weight: 800;
                             height: 396px;
                             display: flex;gap: 50px;
                            }
-
+.next{color: #272727;width: 500px;gap: 0px;color: #272727;
+    font-family: Lato;
+    font-size: 50px;
+    
+    font-weight: 200;background-image: url(Flower Asset/backgroud.jpg);
+    }
                 
                     
                     
